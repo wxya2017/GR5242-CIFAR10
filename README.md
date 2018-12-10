@@ -1,2 +1,8 @@
-# GR5242-CIFAR10
-Final Project
+# GR5242 Final Project-CIFAR10
+
+## Model Training
+1. run the code in data preprocessing part: z_score, one-hot encoding and data augmentation 
+2. model training and saving: run the model define function(build_model_base, model_cnn, build_model_NIN) and then the training step right after the function
+## Model Evaluation
+1. load trained model by from model folder and evalute the test accuracy
+
