@@ -1,4 +1,8 @@
 # GR5242 Final Project-CIFAR10
+## Team Member
+Wei, Xiaoya (Section1, xw2513) 
+Dong, Jiaqi (Section1, jd3418) 
+Yu, Wenting (Section2, wy2294)
 
 ## Model Training
 1. run the self-defined function part
